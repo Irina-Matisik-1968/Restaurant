@@ -1,0 +1,105 @@
+﻿<Window x:Class="RestovanWPF.View.CreateOrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RestovanWPF.View"
+        mc:Ignorable="d"
+        Title="Создать заказ" Height="500" Width="800" MinHeight="500" MinWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <!-- Заголовок окна-->
+        <Grid Grid.Row="0" Background="#FFF08E17">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Image Grid.Column="0" Source="/Resources/Logo.png" Stretch="Fill"/>
+            <TextBlock Grid.Column="1" Text ="Создание заказа" Style="{StaticResource TitleLevel1}"/>
+            <Button Name="butExit" Grid.Column="2" Style="{StaticResource ButtonTitle}"  Margin="20,10,10,10" Click="butExit_Click">
+                <Button.Content >
+                    <StackPanel Orientation="Horizontal"  >
+                        <Image Source="/Resources/ButExit.png" Stretch="Uniform" />
+                        <TextBlock Text="Главное меню" Style="{StaticResource TitleLevel1}" 
+                                   VerticalAlignment="Center" Margin="10,0"/>
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+        </Grid>
+
+        <!--Ценатральная часть-->
+        <Grid Grid.Row="1" >
+            <Grid.Background>
+                <ImageBrush ImageSource="/Resources/FoneMenu.png"/>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <!--Верхняя часть-->
+            <TextBlock Grid.Row="0" Grid.Column="0" Text="Категории блюд" Style="{StaticResource TitleLevel1}" />
+            <TextBlock Grid.Row="0" Grid.Column="1" Text="Блюда из меню" Style="{StaticResource TitleLevel1}" />
+           <!--Центральная часть-->
+            <ListBox x:Name="lbCategory" Grid.Row="1" Grid.Column="0" Background="Transparent"
+                     Style="{StaticResource TitleLevel2}" SelectionChanged="lbCategory_SelectionChanged"/>
+            <ListBox x:Name="lbDish" Grid.Row="1" Grid.Column="1" Background="Transparent" 
+                     HorizontalContentAlignment="Stretch">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100"/>
+                                <ColumnDefinition Width="5*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            
+                            <!--<Image Grid.Column="0" Source="/Resources/mid.png" Margin="10"/>-->
+                            <Image Grid.Column="0" Source="{Binding Path=ProductPhotoString}"/>
+                            <StackPanel Grid.Column="1" Style="{StaticResource TitleLevel2}">
+                                <TextBlock Text="{Binding Path=ProductName, StringFormat=Название блюда: {0}}"/>
+                                <TextBlock Text="{Binding Path=Category.CategoryName, StringFormat=Категория блюда: {0}}" Foreground="Green"/>
+                                <TextBlock >
+                                    <Run Text="Цена блюда:" Foreground="BlueViolet" FontSize="20"/>
+                                    <!--<LineBreak/>-->
+                                    <Run Text="{Binding Path=ProductCost}" Foreground="Aqua" FontSize="20"/>
+                                </TextBlock>
+                            </StackPanel >
+                            <Button Grid.Column="2" Name="butInOrder" Content="В заказ" 
+                                    Style="{StaticResource ButtonTitle}" Click="butInOrder_Click"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            
+            <!--Нижняя часть окна-->
+            <StackPanel Grid.Row="2">
+                <TextBlock x:Name="tbSumma" Text="Сумма на карте" Style="{StaticResource TitleLevel2}"/>
+                <TextBlock x:Name="tbSummaOrder" Text="Сумма заказа" Style="{StaticResource TitleLevel2}"/>
+            </StackPanel>
+            <!--<TextBlock x:Name="tbSumma" Grid.Row="2" Text="Сумма на карте" Style="{StaticResource TitleLevel2}"/>-->
+            <Button x:Name="butRegister" Content="Оформить заказ" Grid.Column="1" Grid.Row="2"
+                    Style="{StaticResource ButtonTransform}" Click="butRegister_Click"/>
+
+        </Grid>
+        <!-- Подвал окна -->
+        <Grid Grid.Row="4" Background="#FFF08E17">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="@Irina_Matisik" Style="{StaticResource TitleLevel2}"/>
+            <TextBlock Grid.Column="1" Text="Matisik_dist@mail.ru" Style="{StaticResource TitleLevel2}"/>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,187 @@
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\bin\Debug\RestovanWPF.exe.config
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\bin\Debug\RestovanWPF.exe
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\bin\Debug\RestovanWPF.pdb
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\MainWindow.g.cs
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\App.g.cs
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.cache
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.lref
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\App.baml
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\MainWindow.baml
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.g.resources
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.Properties.Resources.resources
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.csproj.GenerateResource.cache
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.csproj.CoreCompileInputs.cache
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.exe
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.pdb
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\View\CreateOrderWindow.g.cs
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\View\CreateOrderWindow.baml
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.csproj.AssemblyReference.cache
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\View\RegisterOrderWindow.g.cs
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\View\RegisterOrderWindow.baml
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\View\AutorizationWindow.g.cs
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\View\AutorizationWindow.baml
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\View\WorkCatalogWindow.g.cs
+C:\Users\mama\Desktop\RestovanWPF\RestovanWPF\obj\Debug\View\WorkCatalogWindow.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\bin\Debug\RestovanWPF.exe.config
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\bin\Debug\RestovanWPF.exe
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\bin\Debug\RestovanWPF.pdb
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.csprojAssemblyReference.cache
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\MainWindow.g.cs
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\View\AutorizationWindow.g.cs
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\View\CreateOrderWindow.g.cs
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\View\RegisterOrderWindow.g.cs
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\View\WorkCatalogWindow.g.cs
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\App.g.cs
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.cache
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.lref
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\App.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\MainWindow.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\View\AutorizationWindow.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\View\CreateOrderWindow.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\View\RegisterOrderWindow.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\View\WorkCatalogWindow.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.g.resources
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.Properties.Resources.resources
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.csproj.GenerateResource.cache
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.csproj.CoreCompileInputs.cache
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.exe
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\RestovanWPF\RestovanWPF\obj\Debug\RestovanWPF.pdb
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\RestovanWPF.exe.config
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\RestovanWPF.exe
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\RestovanWPF.pdb
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csprojAssemblyReference.cache
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\MainWindow.g.cs
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\AutorizationWindow.g.cs
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\CreateOrderWindow.g.cs
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\RegisterOrderWindow.g.cs
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\WorkCatalogWindow.g.cs
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\App.g.cs
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.cache
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.lref
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\App.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\MainWindow.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\AutorizationWindow.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\CreateOrderWindow.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\RegisterOrderWindow.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\WorkCatalogWindow.baml
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.g.resources
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.Properties.Resources.resources
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.GenerateResource.cache
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.CoreCompileInputs.cache
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.exe
+F:\Занятия 2022-2023\МДК 01.01\3 курс\№3 WPFExcelWord\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.pdb
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\RestovanWPF.exe.config
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\RestovanWPF.exe
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\RestovanWPF.pdb
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.AssemblyReference.cache
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.SuggestedBindingRedirects.cache
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\MainWindow.g.cs
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\AutorizationWindow.g.cs
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\CreateOrderWindow.g.cs
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\RegisterOrderWindow.g.cs
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\WorkCatalogWindow.g.cs
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\App.g.cs
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.cache
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.lref
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\App.baml
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\MainWindow.baml
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\AutorizationWindow.baml
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\CreateOrderWindow.baml
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\RegisterOrderWindow.baml
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\WorkCatalogWindow.baml
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.g.resources
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.Properties.Resources.resources
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.GenerateResource.cache
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.CoreCompileInputs.cache
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.exe
+E:\Матысик И.А\Занятия 2023-2024\3 курс\МДК 01.01\№2. WPF+Excel+Word\Приложение из дома\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.pdb
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\RestovanWPF.exe.config
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\RestovanWPF.exe
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\RestovanWPF.pdb
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.AssemblyReference.cache
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\MainWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\AutorizationWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\CreateOrderWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\RegisterOrderWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\WorkCatalogWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\App.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.cache
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.lref
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\App.baml
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\MainWindow.baml
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\AutorizationWindow.baml
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\CreateOrderWindow.baml
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\RegisterOrderWindow.baml
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\WorkCatalogWindow.baml
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.g.resources
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.Properties.Resources.resources
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.GenerateResource.cache
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.CoreCompileInputs.cache
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.exe
+C:\Users\matisik-i-a\Desktop\Studs\22\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.pdb
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\RestovanWPF.exe.config
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\RestovanWPF.exe
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\RestovanWPF.pdb
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.AssemblyReference.cache
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\MainWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\AutorizationWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\CreateOrderWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\RegisterOrderWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\WorkCatalogWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\App.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.cache
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.lref
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\App.baml
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\MainWindow.baml
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\AutorizationWindow.baml
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\CreateOrderWindow.baml
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\RegisterOrderWindow.baml
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\WorkCatalogWindow.baml
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.g.resources
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.Properties.Resources.resources
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.GenerateResource.cache
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.CoreCompileInputs.cache
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.exe
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.pdb
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\EntityFramework.dll
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\EntityFramework.xml
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF_Content.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\RestovanWPF.csproj.CopyComplete
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\CatalogWindow.g.cs
+C:\Users\matisik-i-a\Desktop\Studs\313\№3 RestovanWPF. Окна\RestovanWPF\obj\Debug\View\CatalogWindow.baml
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\bin\Debug\RestovanWPF.exe.config
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\bin\Debug\RestovanWPF.exe
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\bin\Debug\RestovanWPF.pdb
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\bin\Debug\EntityFramework.dll
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\bin\Debug\EntityFramework.xml
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\RestovanWPF.csproj.AssemblyReference.cache
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\MainWindow.g.cs
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\View\AutorizationWindow.g.cs
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\View\CatalogWindow.g.cs
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\View\CreateOrderWindow.g.cs
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\View\RegisterOrderWindow.g.cs
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\View\WorkCatalogWindow.g.cs
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\App.g.cs
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\RestovanWPF_Content.g.cs
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.cache
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\RestovanWPF_MarkupCompile.lref
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\App.baml
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\MainWindow.baml
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\View\AutorizationWindow.baml
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\View\CatalogWindow.baml
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\View\CreateOrderWindow.baml
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\View\RegisterOrderWindow.baml
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\View\WorkCatalogWindow.baml
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\RestovanWPF.g.resources
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\RestovanWPF.Properties.Resources.resources
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\RestovanWPF.csproj.GenerateResource.cache
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\RestovanWPF.csproj.CoreCompileInputs.cache
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\RestovanWPF.csproj.CopyComplete
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\RestovanWPF.exe
+C:\Users\mama\Desktop\RestovanWPF.DBEntity\RestovanWPF\obj\Debug\RestovanWPF.pdb
